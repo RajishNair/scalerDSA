@@ -5,8 +5,8 @@ import java.util.Arrays;
 public class MergeSortAnyArray {
 
     public static void main(String[] args) {
-    //int arr[] = {2,3,6,8,10,12,15,17,18};
-    int[] arr = {4,8,-1,2,6,9,11,3,4,7,13,0};
+    int arr[] = {3,10,6,8,15,2,12,18,17};
+    //int[] arr = {4,8,-1,2,6,9,11,3,4,7,13,0};
     mergeSort(arr,0,8);
     System.out.print(Arrays.toString(arr));
     }
