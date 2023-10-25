@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89c2fcc0-4d47-4203-83aa-5874e470266e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/scaler/advaceDSA3/linkedlist1/session/InsertNodeInSortedLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scaler/advancedDSA/sorting1/session/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/scaler/dsa/contests/MinUpdatesToGetArrayMinimumEqualToB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/advaceDSA3/linkedlist1/session/ReverseKNodesOfLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/scaler/advaceDSA3/linkedlist1/session/ReverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/scaler/advancedDSA/sorting1/session/MergeSortAnyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/advancedDSA/sorting1/session/MergeSortAnyArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/scaler/contests/practice/BinaryToDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/scaler/contests/practice/BinaryToDecimal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,20 +45,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.InsertNodeInSortedLL">
-    <configuration name="HistogramArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.scaler.advancedDSA.stacks2.session.HistogramArea" />
-      <module name="Scaler-DSA-Project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.scaler.advancedDSA.stacks2.session.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseKNodesOfLL">
     <configuration name="InsertNodeInSortedLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.scaler.advaceDSA3.linkedlist1.session.InsertNodeInSortedLL" />
       <module name="Scaler-DSA-Project" />
@@ -75,12 +59,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NearestMaxorMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.scaler.advancedDSA.stacks2.session.NearestMaxorMin" />
+    <configuration name="ReverseKNodesOfLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.advaceDSA3.linkedlist1.session.ReverseKNodesOfLL" />
       <module name="Scaler-DSA-Project" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.scaler.advancedDSA.stacks2.session.*" />
+          <option name="PATTERN" value="com.scaler.advaceDSA3.linkedlist1.session.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scaler.advaceDSA3.linkedlist1.session.ReverseLinkedList" />
+      <module name="Scaler-DSA-Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scaler.advaceDSA3.linkedlist1.session.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseKNodesOfLL" />
+        <item itemvalue="Application.ReverseLinkedList" />
         <item itemvalue="Application.InsertNodeInSortedLL" />
         <item itemvalue="Application.SumOfMaxOfEverySubsequence" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.HistogramArea" />
-        <item itemvalue="Application.NearestMaxorMin" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +185,11 @@
           <url>file://$PROJECT_DIR$/src/com/scaler/advaceDSA3/linkedlist1/session/InsertNodeInSortedLL.java</url>
           <line>31</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/scaler/advaceDSA3/linkedlist1/session/ReverseKNodesOfLL.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
