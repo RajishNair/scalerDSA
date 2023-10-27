@@ -24,19 +24,20 @@ public class ReverseKNodesOfLL {
     }
 
     public static InsertNodeInSortedLL.ListNode reverseKGroups(InsertNodeInSortedLL.ListNode head, int k){
-        int count =0;
+        int count =1;
         if(head ==null)
             return null;
         InsertNodeInSortedLL.ListNode th = head;
         InsertNodeInSortedLL.ListNode temp = head;
-        while(count<k && temp!=null){
+        while(count<k && temp.next!=null){
             temp = temp.next;
             count+=1;
 
         }
         InsertNodeInSortedLL.ListNode t= temp;
-        t.next = null;
         temp = temp.next;
+        t.next = null;
+
 
         // reverse first k nodes and disconnect
         head =ReverseLinkedList.reverseLinkedList(th);
